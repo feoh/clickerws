@@ -1,0 +1,7 @@
+POST http://0.0.0.0:8907/api/tracked_item
+Content-Type: application/json
+Accept: application/json
+
+{
+"description": "confidence"
+}

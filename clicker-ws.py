@@ -41,4 +41,4 @@ manager.create_api(Entry, methods=['GET', 'POST', 'DELETE'])
 
 
 # start the flask loop
-app.run()
+app.run(host='0.0.0.0', port=8907)

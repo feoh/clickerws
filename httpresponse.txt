@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "description": "confidence"
+}
+// POST http://0.0.0.0:8907/api/tracked_item
+// HTTP/1.0 201 CREATED
+// Content-Type: application/json
+// Content-Length: 45
+// Location: http://0.0.0.0:8907/api/tracked_item/1
+// Vary: Accept
+// Content-Type: application/json
+// Server: Werkzeug/0.10.4 Python/2.7.10
+// Date: Fri, 19 Feb 2016 11:20:53 GMT
+// Request duration: 0.172467s
